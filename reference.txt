@@ -1,0 +1,4 @@
+reference:
+1.http://www.statisticssolutions.com/manova-analysis-paired-sample-t-test/
+2.http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-24.html
+3.https://cyfar.org/types-statistical-tests
